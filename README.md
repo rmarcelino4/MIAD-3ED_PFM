@@ -9,7 +9,7 @@ Created by [Rui Marcelino](mailto:rmarcelino@umaia.pt), en 15/04/2022.
 
 <img src="https://github.com/rmarcelino4/MIAD-3ED_PFM/blob/main/Videos_Output/1-Goal-RightFoot.gif" width="100%">
 
-Se ha provado incluso la estimación de la pose con [OpenMMLab]https://mmpose.readthedocs.io/en/latest/demo.html#d-pose-tracking-demo):
+Se ha provado incluso la estimación de la pose con [OpenMMLab](https://mmpose.readthedocs.io/en/latest/demo.html#d-pose-tracking-demo):
 
 <img src="https://github.com/rmarcelino4/MIAD-3ED_PFM/blob/main/Videos_Output/Openmmlab/1-Goal-RightFoot-pose.png" width="100%">
 
