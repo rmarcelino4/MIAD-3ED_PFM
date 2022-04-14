@@ -7,7 +7,7 @@ Tests with FootAndBall, DeepSort and ByteTrack]
 
 Created by [Rui Marcelino](mailto:rmarcelino@umaia.pt), en 15/04/2022.
 
-<img src="Videos_Output/1-Goal-RightFoot.gif" width="100%">
+<img src="https://github.com/rmarcelino4/MIAD-3ED_PFM/blob/main/Videos_Output/1-Goal-RightFoot.gif" width="100%">
 
 ### Datasets
 Los três algoritmos se aplicaran a clips de video de 
