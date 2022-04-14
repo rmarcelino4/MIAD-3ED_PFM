@@ -7,3 +7,4 @@ Tests with FootAndBall, DeepSort and ByteTrack]
 
 Created by [Rui Marcelino](mailto:rmarcelino@umaia.pt)
 
+<img src="1-Goal-RightFoot.gif" width="100%">
